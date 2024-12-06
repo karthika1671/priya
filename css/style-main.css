@@ -1798,7 +1798,7 @@ section > .container-fluid {
 }
 /* -------- Menuzord ---------- */
 .menuzord-menu > li > a {
-  color: #333333;
+  color: #eee12d;
   font-size: 13px;
   font-weight: 400;
   text-transform: uppercase;
@@ -1841,11 +1841,11 @@ section > .container-fluid {
 }
 .menuzord-menu > li > .megamenu .megamenu-row li.active > a,
 .menuzord-menu > li > .megamenu .megamenu-row li:hover > a {
-  color: #111;
+  color: #e91616;
   padding-left: 15px;
 }
 .menuzord-menu > li > .megamenu .megamenu-row li a i {
-  color: #444;
+  color: #ec2323;
 }
 .menuzord-menu > li > .megamenu .megamenu-row li.active a i,
 .menuzord-menu > li > .menuzord-menu > li > .megamenu .megamenu-row li:hover a i {
@@ -7770,3 +7770,4 @@ blockquote p {
   height: 42px;
   margin-right: 10px;
 }
+
