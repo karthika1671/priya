@@ -94,7 +94,7 @@ COLOR CODE3: #e6d8ad
 }
 /* navbar theme colored */
 .header-nav.navbar-theme-colored {
-  background-color: rgba(173, 216, 230, 0.93);
+  background-color: rgba(0, 0, 0, 0.93);
 }
 .header-nav.navbar-transparent.animated-active {
   background-color: rgba(0, 0, 0, 0);
